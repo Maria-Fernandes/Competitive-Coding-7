@@ -1,5 +1,5 @@
 
-// Time Complexity : O(Min(m,k)logMin(m,k))
+// Time Complexity : O(Min(m,k)+klogMin(m,k))
 // Space Complexity : O(Min(m,k))
 // Did this code successfully run on Leetcode : Yes
 // Any problem you faced while coding this : No
